@@ -11,3 +11,6 @@ Used‑car prices are shaped by a handful of consistent, intuitive factors. Afte
 * **Engine Size (Cylinders)**: More cylinders generally mean a higher price, reflecting performance and vehicle class.
 
 The analysis can be found here, [notebook.](notebooks/car_price_analysis.ipynb)
+
+The Used Car Pricing Tool for Kurt and his team can be found here, [Download Used Car Pricing Tool](notebooks/tools/used_car_pricing_tool.xlsx)
+
