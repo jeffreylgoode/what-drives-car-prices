@@ -10,4 +10,4 @@ Used‑car prices are shaped by a handful of consistent, intuitive factors. Afte
 * **Fuel Type**: Diesel and hybrid vehicles often price higher than gasoline models.
 * **Engine Size (Cylinders)**: More cylinders generally mean a higher price, reflecting performance and vehicle class.
 
-The analysis can be found here, [notebook.](../notebooks/car_price_analysis.ipynb)
+The analysis can be found here, [notebook.](notebooks/car_price_analysis.ipynb)
