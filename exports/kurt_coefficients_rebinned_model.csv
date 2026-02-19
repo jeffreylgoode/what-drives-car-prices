@@ -1,0 +1,73 @@
+original_feature,category,Price Adjustment
+BASE PRICE (b0),,11783.07498423452
+new to odometer to bins to 0.0-10000.0,,1993.7857131877688
+new to odometer to bins to 10000.0-20000.0,,4692.002820113515
+new to odometer to bins to 100000.0-110000.0,,844.0586738760046
+new to odometer to bins to 110000.0-120000.0,,590.0032952131868
+new to odometer to bins to 120000.0-130000.0,,-36.040681966516075
+new to odometer to bins to 130000.0-140000.0,,-193.17327957914137
+new to odometer to bins to 140000.0-150000.0,,-563.8464759541235
+new to odometer to bins to 150000.0-160000.0,,-882.1651313647568
+new to odometer to bins to 160000.0-170000.0,,-964.9778561049208
+new to odometer to bins to 170000.0-180000.0,,-1350.0773104407779
+new to odometer to bins to 180000.0-190000.0,,-1610.6340724817492
+new to odometer to bins to 190000.0-200000.0,,-1846.5983990449909
+new to odometer to bins to 20000.0-30000.0,,4810.875639135168
+new to odometer to bins to 200000.0-210000.0,,-2127.9672234405216
+new to odometer to bins to 210000.0-220000.0,,-1959.6414926365408
+new to odometer to bins to 220000.0-230000.0,,-2328.0372442252774
+new to odometer to bins to 230000.0-240000.0,,-2222.1006676432366
+new to odometer to bins to 240000.0-250000.0,,-2589.7905350126907
+new to odometer to bins to 250000.0-260000.0,,-2756.96449936349
+new to odometer to bins to 260000.0-270000.0,,-2338.9547797689925
+new to odometer to bins to 270000.0-280000.0,,-2727.6775633126085
+new to odometer to bins to 280000.0-290000.0,,-3036.9162659750823
+new to odometer to bins to 290000.0-300000.0,,-2727.2618813352137
+new to odometer to bins to 30000.0-40000.0,,4605.5412217863495
+new to odometer to bins to 40000.0-50000.0,,4246.778236433041
+new to odometer to bins to 50000.0-60000.0,,3594.811374372028
+new to odometer to bins to 60000.0-70000.0,,3143.7323162848347
+new to odometer to bins to 70000.0-80000.0,,2704.471915409832
+new to odometer to bins to 80000.0-90000.0,,2025.3712616038927
+new to odometer to bins to 90000.0-100000.0,,1566.8755831876665
+new to odometer to bins to nan,,-2555.4826909430108
+new to year to bins to 1980.0-1985.0,,-3425.684761008006
+new to year to bins to 1985.0-1990.0,,-2739.921686791092
+new to year to bins to 1990.0-1995.0,,-3203.258478470698
+new to year to bins to 1995.0-2000.0,,-3369.0012138595794
+new to year to bins to 2000.0-2005.0,,-2681.6972291542093
+new to year to bins to 2005.0-2010.0,,-810.8143416602638
+new to year to bins to 2010.0-2015.0,,2757.936145435612
+new to year to bins to 2015.0-2020.0,,5730.639199004304
+new to year to bins to nan,,7741.802366519305
+collapsed to type to car,,-1441.637766599376
+collapsed to type to other to missing,,-805.6704097676812
+collapsed to type to suv to crossover,,-261.1474105322304
+collapsed to type to truck miles,,2457.014404295858
+collapsed to type to van,,51.44118261584813
+collapsed to cylinders to 4 cylinders,,-1604.9346135201254
+collapsed to cylinders to 6 cylinders,,-191.33328827029106
+collapsed to cylinders to 8 cylinders,,1478.1920683433905
+collapsed to cylinders to missing,,318.0758334339322
+drive to 4wd,,1273.4444971381643
+drive to fwd,,-1229.846625081634
+drive to missing,,-896.6728342865375
+drive to rwd,,853.0749621992215
+transmission to automatic,,-1134.5461681451045
+transmission to manual,,-271.25864650012613
+transmission to other,,1405.804814607236
+fuel to diesel,,3859.450385385093
+fuel to electric,,-3790.5833123540533
+fuel to gas,,-437.7630290626837
+fuel to hybrid,,-150.2730622182293
+fuel to other,,519.1690182312957
+geo to regions to alask milesa,,1474.512139999187
+geo to regions to hawaii,,500.8511880565279
+geo to regions to midwest,,-696.4739361094229
+geo to regions to northeast,,-1069.7876339165996
+geo to regions to southeast,,-198.7986596458507
+geo to regions to west,,-10.303098388390232
+manufacturer to tier to economy,,-745.5956725306718
+manufacturer to tier to exotic,,738.4615496795533
+manufacturer to tier to luxury,,901.5321678676917
+manufacturer to tier to mid-mark mileset,,-894.3980450252216
